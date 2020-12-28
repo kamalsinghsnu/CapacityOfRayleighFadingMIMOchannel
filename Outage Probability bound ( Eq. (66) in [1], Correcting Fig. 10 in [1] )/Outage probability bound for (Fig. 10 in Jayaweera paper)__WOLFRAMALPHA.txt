@@ -1,0 +1,5 @@
+m = n = 6, SNR = 10 dB, bound reading  = 1.07141e-17
+
+m = n = 8, SNR =  5 dB, bound reading  = 1.96455e-18
+
+m = n = 8, SNR = 10 dB, bound reading  = 3.14944e-25
